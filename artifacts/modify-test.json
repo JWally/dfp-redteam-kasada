@@ -1,0 +1,17 @@
+{
+  "real-ct": {
+    "label": "real-ct",
+    "status": 200,
+    "body": "\n    \n        {\"header\":[{\"headerSection\":[{\"name\":\"🎁Holiday Gifts\",\"guid\":\"2bc784e4-394c-4d55-b153-85ca763cd929/par/header_section_13804\",\"highlight"
+  },
+  "garbage-ct": {
+    "label": "garbage-ct",
+    "status": 200,
+    "body": "\n    \n        {\"header\":[{\"headerSection\":[{\"name\":\"🎁Holiday Gifts\",\"guid\":\"2bc784e4-394c-4d55-b153-85ca763cd929/par/header_section_13804\",\"highlight"
+  },
+  "no-ct": {
+    "label": "no-ct",
+    "status": 200,
+    "body": "\n    \n        {\"header\":[{\"headerSection\":[{\"name\":\"🎁Holiday Gifts\",\"guid\":\"2bc784e4-394c-4d55-b153-85ca763cd929/par/header_section_13804\",\"highlight"
+  }
+}

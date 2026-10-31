@@ -1,0 +1,94 @@
+{
+  "requests": [
+    {
+      "method": "GET",
+      "url": "https://k.twitchcdn.net/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js",
+      "hasCd": false,
+      "hasCt": false
+    },
+    {
+      "method": "POST",
+      "url": "https://gql.twitch.tv/integrity",
+      "hasCd": true,
+      "hasCt": true
+    },
+    {
+      "method": "GET",
+      "url": "https://k.twitchcdn.net/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js",
+      "hasCd": false,
+      "hasCt": false
+    },
+    {
+      "method": "POST",
+      "url": "https://gql.twitch.tv/integrity",
+      "hasCd": true,
+      "hasCt": true
+    },
+    {
+      "method": "GET",
+      "url": "https://pagead2.googlesyndication.com/pagead/js/r20261029/r20110914/elements/html/omrhp.js",
+      "hasCd": false,
+      "hasCt": false
+    }
+  ],
+  "posts": [
+    {
+      "url": "https://gql.twitch.tv/integrity",
+      "postData": "",
+      "headers": {
+        "x-kpsdk-ct": "08GnyiNdHxuco8Zkvi6IhQCWJlJkE3EC4YQZtRUdhClAKYdOzV1m6TC44Cep88VkiLNU7wo2Fk5I7s6M2Uj4Ed3rY9DdNFAtSjpqtaws7xBnL3NA6gqaFgVImIrgiuP0ehxGXC9cbEDEybWchtfL7C68j6n3QIJuWtm",
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://www.twitch.tv/",
+        "x-device-id": "873107a79a40465890b782addc221258",
+        "x-kpsdk-h": "01F47DxTPakzMm2tqdC3JSScDjKyQ=",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"Google Chrome\";v=\"151\", \"Chromium\";v=\"151\"",
+        "sec-ch-ua-mobile": "?0",
+        "client-id": "kimne78kx3ncx6brgo4mv6wki5h1ko",
+        "x-kpsdk-v": "j-1.2.940",
+        "client-request-id": "LZ8mLQVyDe5WD7PPh850ULB1bl0OU8jD",
+        "client-session-id": "fce8a69235a94d18",
+        "x-kpsdk-cd": "{\"workTime\":1793455091528,\"id\":\"a5341bd338333200483db9cb6dc74c32\",\"answers\":[7,4],\"duration\":54.6,\"d\":45,\"st\":1793454917296,\"rst\":1793454917341}",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "client-version": "a9de9929-fe85-4f9d-9eb5-2e4bb2bc623a"
+      }
+    },
+    {
+      "url": "https://gql.twitch.tv/integrity",
+      "postData": "",
+      "headers": {
+        "x-kpsdk-ct": "08edtklG9BgxSPe1XPByQDpdFKDIhMDFkYGpNCZIE0OOBLDyOamp9BHLwSK2CTiaCmGddAfkW9hWVooQbv1xJp8uKmPAXoojmwIHnlPD77KYdB0HtNqAqOWKrVzF0PfJaCinPVjNOVPPnnyq83N3LCjebpCE76X4DFn",
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://www.twitch.tv/",
+        "x-device-id": "873107a79a40465890b782addc221258",
+        "x-kpsdk-h": "01F47DxTPakzMm2tqdC3JSScDjKyQ=",
+        "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"Google Chrome\";v=\"151\", \"Chromium\";v=\"151\"",
+        "sec-ch-ua-mobile": "?0",
+        "client-id": "kimne78kx3ncx6brgo4mv6wki5h1ko",
+        "x-kpsdk-v": "j-1.2.940",
+        "client-request-id": "8yKda8DmWS10grK5iOicKMMOnibz8n2d",
+        "client-session-id": "e9bb14659d7748f6",
+        "x-kpsdk-cd": "{\"workTime\":1793455102004,\"id\":\"4eeeefe8da3649116f8d6bab26e00d4c\",\"answers\":[5,1],\"duration\":33,\"d\":45,\"st\":1793454917296,\"rst\":1793454917341}",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+        "client-version": "a9de9929-fe85-4f9d-9eb5-2e4bb2bc623a"
+      }
+    }
+  ],
+  "respHdrs": [
+    {
+      "url": "https://gql.twitch.tv/integrity",
+      "status": 200,
+      "hdrs": {
+        "x-kpsdk-r": "1-Bw9SUkQ",
+        "x-kpsdk-ct": "08edtklG9BgxSPe1XPByQDpdFKDIhMDFkYGpNCZIE0OOBLDyOamp9BHLwSK2CTiaCmGddAfkW9hWVooQbv1xJp8uKmPAXoojmwIHnlPD77KYdB0HtNqAqOWKrVzF0PfJaCinPVjNOVPPnnyq83N3LCjebpCE76X4DFn"
+      }
+    },
+    {
+      "url": "https://gql.twitch.tv/integrity",
+      "status": 200,
+      "hdrs": {
+        "x-kpsdk-r": "1-Bw9yb3o",
+        "x-kpsdk-ct": "08EYJZfh6m1uRG2x49ERWKzUx6OPSo93V9qURf2lQGLYvYvzUGp2byP8xS0oAWReWnEQJa3LZZWIhphmGnHXp8S3oXpMnTT3UmwOCtgPCQaj4FoQXVottebZMo1SpFE2sAqKGnfSz9zR1IBktCoTR4lAWstK0MNUeWV"
+      }
+    }
+  ]
+}

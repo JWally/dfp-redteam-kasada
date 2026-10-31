@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://gql.twitch.tv/integrity",
+    "ct": "08EYJZfh6m1uRG2x49ERWKzUx6OPSo93V9qURf2lQGLYvYvzUGp2byP8xS0oAWReWnEQJa3LZZWIhphmGnHXp8S3oXpMnTT3UmwOCtgPCQaj4FoQXVottebZMo1SpFE2sAqKGnfSz9zR1IBktCoTR4lAWstK0MNUeWV",
+    "cd": "{\"workTime\":1793465210462,\"id\":\"ef5ca1c6856dbcbb1a80d9c048d96cf9\",\"answers\":[4,1],\"duration\":29.9,\"d\":45,\"st\":1793454917296,\"rst\":1793454917341}",
+    "hdr": "01F47DxTPakzMm2tqdC3JSScDjKyQ=",
+    "v": "j-1.2.940",
+    "body": ""
+  },
+  {
+    "url": "https://gql.twitch.tv/integrity [RESP]",
+    "status": 200,
+    "resp": "{\"token\":\"v4.local.d0r2W2fPzi0doQKgTVwds2594UknveQO3noIW6hQVeB_YPYXSnNbGaY6b137vZa7os-8C7fEc3DDzLNiIhioWWM9S_uc1F9JoN4J8HmAKGYWm3MvZ3Q-9SVQS9ChKVQmNDJ6X0tlK-MBM47y7gSsBkga1JSLbLGpQXxUMTS1Qg5pnw4ciHxEo65BsRdhiJmEUjUObxHa49gouLnDt4WN6pf8XVbWFBu5qWkd0zUja-sOzOc4_nCqoXIJBu_qnyIpOEPNcPnrlgRlVHC0TW94RrnfBx7SdW-TGwCRaYAHqJ3ivcVZuH2sZ-D5oP-yw9Ec-cYBodl06LfuXmOiMez2w7z3sk3fLpBRKPscFXR68zoToYRwd1JO4ppw70C3pWmLJ1UT1wGpkyvDu1dZ9AhqmY7HAHcicEudRfuRwsrdMpwt5kx5a5-fnK5qnqbThMqttIvZ4nW4Djb6FkyTwPz3WekfXsoyfaSuUpE\",\"expiration\":1793522810702,\"request_id\":\"01M69DPNSBBXFZEV6VGHR16FNK\"}",
+    "hdrs": {
+      "x-kpsdk-r": "1-Bw9zBEM",
+      "x-kpsdk-ct": "08D2szM1QTndovMGCyeBclh1kACgukNKeWTiH5TBjYjWt2Nwkg3rRsAZfe6152BlYlc7aftQw877NNCXE1EsAeUWHZfcgxJZsWo8hUWzHV7taj2v90okIEt6PQK0Lqv6DCA4rddFoeLxBRuBkrpxbMdDdn808oZLHTR"
+    }
+  }
+]

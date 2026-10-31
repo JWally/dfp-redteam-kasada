@@ -1,0 +1,9 @@
+{
+  "name": "dfp-redteam-kasada",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Kasada KPSDK merchant pass (Twitch/Nike/FootLocker): plaintext x-kpsdk-cd PoW captured, modification test shows PoW presence-checked not verified, ct binding is the real gate (authorized, public endpoints, 2026-10-31)",
+  "scripts": { "twitch": "node scripts/ksd-twitch.mjs", "modify": "node scripts/ksd-modify.mjs" },
+  "dependencies": { "playwright": "^1" }
+}

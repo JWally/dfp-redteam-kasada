@@ -1,0 +1,21 @@
+{
+  "live": {
+    "ct": "08D2szM1QTndovMGCyeBclh1kACgukNKeWTiH5TBjYjWt2Nwkg3rRsAZfe6152BlYlc7aftQw877NNCXE1EsAeUWHZfcgxJZsWo8hUWzHV7taj2v90okIEt6PQK0Lqv6DCA4rddFoeLxBRuBkrpxbMdDdn808oZLHTR",
+    "cd": "{\"workTime\":1793465238911,\"id\":\"a1ea1d56b8f21d46a70ee2f1e543059b\",\"answers\":[2,4],\"duration\":36,\"d\":45,\"st\":1793454917296,\"rst\":1793454917341}",
+    "h": "01F47DxTPakzMm2tqdC3JSScDjKyQ=",
+    "v": "j-1.2.940",
+    "devId": "873107a79a40465890b782addc221258",
+    "csid": "e9bb14659d7748f6",
+    "crid": "ERlb11oOHUijlgU8fR0DpH7eCFzUjU0k"
+  },
+  "cookies": [
+    {
+      "name": "twitch.lohp.countryCode",
+      "value": "US"
+    },
+    {
+      "name": "KP_UIDz-ssn",
+      "value": "0sBT9CNqGDCngl19BJTIteyGw8qcZlYyG7e1xQ5DtLdjdsqi0tCNmwhA0q63"
+    }
+  ]
+}

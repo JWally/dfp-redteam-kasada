@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.footlocker.com/zgw/session",
+    "ct": "094qs6mBEqsNYhji0df6Rme976BRfxegGkrO3sSg1KCNBprgkBLaDx8dBW70T8Uv6AEIGcUaQKhfgGAo2d29KTYhHXFox8sv7aVpB9yKF6vMKaXJhrJH4C2DhRSwKJpMrk98oSAElEyWsd7xa9X7wuOnk4G1MWfa49s",
+    "v": "j-1.2.940",
+    "cd": null
+  },
+  {
+    "url": "https://www.footlocker.com/api/content/payments.details.json",
+    "ct": "094qs6mBEqsNYhji0df6Rme976BRfxegGkrO3sSg1KCNBprgkBLaDx8dBW70T8Uv6AEIGcUaQKhfgGAo2d29KTYhHXFox8sv7aVpB9yKF6vMKaXJhrJH4C2DhRSwKJpMrk98oSAElEyWsd7xa9X7wuOnk4G1MWfa49s",
+    "v": "j-1.2.940",
+    "cd": null
+  },
+  {
+    "url": "https://www.footlocker.com/zgw/carts/co-cart-aggregation-service/site/fl/cart/getTotalItem",
+    "ct": "08ASnkDka3ILd4jg5b0n8I4KGbij0hh6ZHaJ6LpJXSKXVQuApbUZpBtE2VXrWjj7qn1KPReppSBqH89gCFPSyqUyUcBc8oARudxjZkyx50d4PgegO54f2WoJHq1gMQBtvn9KlzSutrRyzrKpfMWdCEM9ff9sHYaFz4b",
+    "v": "j-1.2.940",
+    "cd": null
+  },
+  {
+    "url": "https://www.footlocker.com/zgw/carts/co-cart-aggregation-service/site/fl/cart/getTotalItem",
+    "ct": "08ASnkDka3ILd4jg5b0n8I4KGbij0hh6ZHaJ6LpJXSKXVQuApbUZpBtE2VXrWjj7qn1KPReppSBqH89gCFPSyqUyUcBc8oARudxjZkyx50d4PgegO54f2WoJHq1gMQBtvn9KlzSutrRyzrKpfMWdCEM9ff9sHYaFz4b",
+    "v": "j-1.2.940",
+    "cd": null
+  },
+  {
+    "url": "https://www.footlocker.com/zgw/stores-core/v1/stores-by-location?address=75240&siteId=fl",
+    "ct": "09DnbvzNrBP7SWAc2LH1odFkgVleaxg8zdYpfY1M6IYac4pogX2UalBCdxa13866vt0YDlOHfsBRCiaDTvWMW4TdkK5LXJ3XRbJj18puk7XcbAcfr1LxHbCR2EgBMYU2TgdOJ2DDOEiiqGiENoMVmXjtyEFlFZEmOVs",
+    "v": "j-1.2.940",
+    "cd": null
+  },
+  {
+    "url": "https://www.footlocker.com/zgw/carts/co-cart-aggregation-service/site/fl/cart/getTotalItem",
+    "ct": "0ahdGqy92yPLBuVCsCbJyjJEC5kbPKJVPoWLYQhDbXpMVbmEpVcIE1c96Pe2HdIfukDIPeeYB50mp521utCzfQrCdRGOTC1SupIeS6brIf2Lt4memE07DH0aJexJkYfd9tV3hiUOE4ERbkfJiVGhCughvJECyhssXJd",
+    "v": "j-1.2.940",
+    "cd": null
+  }
+]

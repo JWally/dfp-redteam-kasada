@@ -1,0 +1,35 @@
+{
+  "target": "Twitch.tv (gql.twitch.tv/integrity)",
+  "date": "2026-10-31",
+  "vendor": "Kasada KPSDK",
+  "version": "j-1.2.940",
+  "handshake": {
+    "flow": ["GET protected -> 429/200 + x-kpsdk-r + preflight x-kpsdk-ct", "client runs ips.js VM (bytecode)", "POST /tl (enciphered) -> cleared x-kpsdk-ct + x-kpsdk-st", "per-request x-kpsdk-cd (PoW) + x-kpsdk-h signature"],
+    "headers": ["x-kpsdk-ct (220-char session token)", "x-kpsdk-cd (per-request proof, PLAINTEXT JSON)", "x-kpsdk-h (signature)", "x-kpsdk-v (version pin)", "x-kpsdk-r (difficulty)"],
+    "cookie": "KP_UIDz (customer-chosen name)"
+  },
+  "payload_captured": {
+    "x-kpsdk-cd": {"workTime":1793465238911,"id":"a1ea1d56b8f21d46a70ee2f1e543059b","answers":[2,4],"duration":36,"d":45,"st":1793454917296,"rst":1793454917341},
+    "x-kpsdk-ct": "08D2szM1QTndovMGCyeBclh1kACgukNKeWTiH5TBjYjWt2Nwkg3rRsAZfe6152BlYlc7aftQw877NNCXE1EsAeUWHZfcgxJZsWo8hUWzHV7taj2v90okIEt6PQK0Lqv6DCA4rddFoeLxBRuBkrpxbMdDdn808oZLHTR",
+    "x-kpsdk-h": "01F47DxTPakzMm2tqdC3JSScDjKyQ=",
+    "x-kpsdk-v": "j-1.2.940",
+    "server_response": {"token":"v4.local.<STROBE/secretbox encrypted>","expiration":1793522810702,"request_id":"01M69DPNSBBXFZEV6VGHR16FNK"}
+  },
+  "modification_test": {
+    "method": "replay x-kpsdk-ct/h/cd from live session against gql.twitch.tv/integrity with modified cd",
+    "results": {
+      "replay exact cd": "200 + fresh token",
+      "modified cd (wrong answers, forged id, duration 0)": "200 + fresh token",
+      "garbage cd (not json)": "200 + fresh token",
+      "empty cd": "200 + fresh token",
+      "absurd answers [99,99,99]": "200 + fresh token",
+      "modified st (wrong server timestamp)": "200 + fresh token"
+    },
+    "conclusion": "x-kpsdk-cd proof-of-work contents are NOT validated server-side on this endpoint; any value yields a fresh encrypted token. The real gate is the x-kpsdk-ct session token + IP/TLS/device binding, not the PoW answers."
+  },
+  "honest_caveats": [
+    "This is one deployment (Twitch) and one endpoint (gql integrity). Other Kasada sites/endpoints may verify the VM output differently (the /tl flow issues ct from the VM's enciphered payload).",
+    "The ct token itself is server-issued; forging a NEW ct without the VM is the hard part. We reused a live ct.",
+    "The v4.local token is encrypted (STROBE-style); not decrypted."
+  ]
+}

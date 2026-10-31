@@ -1,0 +1,285 @@
+{
+  "requests": [
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/fonts/FootLocker-FLClassic.woff",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/fonts/MavenPro-Regular.woff2",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/fonts/MavenPro-Medium.woff2",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/FL.css?build=573",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/client.79e4404e.bundle.css",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/runtime.0f2b13d3.bundle.js",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/3411.0def3f6d.bundle.js",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/1240.76954d53.bundle.js",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/9627.75e398c7.bundle.js",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/3006.fba3ae7c.bundle.js",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/client.11588777.bundle.js",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/images/FL/logo.svg",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final/footlocker/site/homepage/2026/october/261027-fl-recil29qfvypxpmll/261027-fl-reciL29qfVypXPMlL-1up-w-mo",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final/footlocker/site/homepage/2026/november/20261003-recnlp5j4mko2zh2q-flus-flca-jordan-fireside/20261003-r",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final/footlocker/site/homepage/2026/october/261030-flus-flca-rec8osiy7nbmpt8ge-nike-ja4-radar/261030-flus-fl",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final//footlocker/site/homepage/2026/september/260915-flca-rec7hya4jynuuscs9-ugg/260915-flca-rec7HyA4JYNUUSC",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final/footlocker/site/homepage/2026/october/261026-flus-recl7ctmj7fcwxdkz-fall/261026-flus-recl7CtmJ7FcwxDkz",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final/footlocker/site/homepage/2026/october/261020-fl-recb7gnzjrdzavstm/261020-fl-recB7gNZjrDZavsTM-3up-w.jp",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final/footlocker/site/homepage/2026/november/20261005-recmbhezzqszlpwkg-flus-flca-ugg-sustain/20261005-recmb",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final/footlocker/app_2/carousel/2026/20260831-recksoimlfwythbdx-flus-flca-fall-image-refresh/20260831-reckSo",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final/footlocker/app_2/carousel/2026/20260831-recksoimlfwythbdx-flus-flca-fall-image-refresh/20260831-reckSo",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final/footlocker/app_2/carousel/2026/20260831-recksoimlfwythbdx-flus-flca-fall-image-refresh/20260831-reckSo",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final/footlocker/site/homepage/2026/october/20261009-reckzvze3tiee5ho5-flus-hp-visualnav-exclusive/20261009-",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://assets.footlocker.com/is/image/FLDM/260126-flx-recKZxt87kfbgZar1-1up-w",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/p.js",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final/footlocker/site/homepage/2026/october/251021-flus-recgtfdo8bzhornpm-bball/261021-flus-recGTfDO8BzHornp",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/manifest.json",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final/footlocker/site/homepage/2026/june/20260622-recex2qdy08hcihyk-flus-flca-nb-40/20260622-recEx2QdY08hCiH",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final/footlocker/site/homepage/2026/october/251029-rec5ot9ug0z55cfno-adidas/251029-rec5OT9Ug0z55cfno-adidas-",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://images.footlocker.com/content/dam/final/flx/site/homepage/2026/october/261014-flx-reczaya1djhlrkcod/261014-flx-recZaya1dJhlrkCOd-thinbanner-w.",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/fonts/MavenPro-ExtraBold.woff2",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/fonts/MavenPro-SemiBold.woff2",
+      "hasCd": false,
+      "hasCt": false,
+      "v": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/zgw/session",
+      "hasCd": false,
+      "hasCt": true,
+      "v": "j-1.2.940"
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/apigate/payment/methods?channel=WEB",
+      "hasCd": false,
+      "hasCt": true,
+      "v": "j-1.2.940"
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/api/content/payments.details.json",
+      "hasCd": false,
+      "hasCt": true,
+      "v": "j-1.2.940"
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/zgw/search-core/products/v3/search/lite?query=%3A%3Acollection_id%3Aneutrals&pageSize=20&sort=undefined",
+      "hasCd": false,
+      "hasCt": true,
+      "v": "j-1.2.940"
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/api/content/en/promotext.details.json",
+      "hasCd": false,
+      "hasCt": true,
+      "v": "j-1.2.940"
+    },
+    {
+      "method": "GET",
+      "url": "https://www.footlocker.com/api/content/en/header.details.json",
+      "hasCd": false,
+      "hasCt": true,
+      "v": "j-1.2.940"
+    }
+  ],
+  "posts": []
+}
