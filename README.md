@@ -63,6 +63,24 @@ stream, verified disassembler) is in `artifacts/deep-vm/`.
 - 🟢 Tamper with payload: garbage/empty/absurd `cd` accepted (presence-checked)
 - 🟢 Mint token: fresh `ct` minted with one GET; verified on 3 merchants
 
+## Demo video — the minted client accepted
+
+**Watch the capture** (terminal capture of `scripts/mint-ct.mjs --verify` —
+mints a fresh ct, posts to `gql.twitch.tv/integrity`, gets a `v4.local` token):
+
+<img src="assets/videos/full-payload-demo.gif" width="720" alt="Kasada mint demo" />
+
+<video controls preload="metadata" width="720"><source src="assets/videos/full-payload-demo.mp4" type="video/mp4"></video>
+
+Reproduce it yourself:
+
+```bash
+node scripts/mint-ct.mjs --verify
+```
+
+Credential summary + recorded run (full tokens): [KASADA_DEEP_CT_MINT_2026_11_01.md](KASADA_DEEP_CT_MINT_2026_11_01.md)
+[Download the mp4](https://raw.githubusercontent.com/JWally/dfp-redteam-kasada/main/assets/videos/full-payload-demo.mp4)
+
 ## Files
 
 - `scripts/mint-ct.mjs` — the mint harness
